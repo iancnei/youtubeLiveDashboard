@@ -26,3 +26,7 @@ body {
 #video-list > li:hover {
   color: blue;
 }
+
+.sanity-check {
+  color: red;
+}
