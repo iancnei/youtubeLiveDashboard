@@ -22,6 +22,7 @@
   // Upon loading, the Google APIs JS client automatically invokes this callback.
   // See https://developers.google.com/api-client-library/javascript/features/authentication 
   window.onJSClientLoad = function() {
+    console.log("onJSClientLoad happening")
     gapi.auth.init(function() {
       window.setTimeout(checkAuth, 1);
     });
@@ -33,6 +34,7 @@
   // succeeds with no user intervention. Otherwise, it fails and the
   // user interface that prompts for authorization needs to display.
   function checkAuth() {
+    console.log("checkAuth called");
     gapi.auth.authorize({
       client_id: OAUTH2_CLIENT_ID,
       scope: OAUTH2_SCOPES,
@@ -42,6 +44,7 @@
 
   // Handle the result of a gapi.auth.authorize() call.
   function handleAuthResult(authResult) {
+    console.log("handleAuthResult called")
     if (authResult) {
       // Authorization was successful. Hide authorization prompts and show
       // content that should be visible after authorization succeeds.
