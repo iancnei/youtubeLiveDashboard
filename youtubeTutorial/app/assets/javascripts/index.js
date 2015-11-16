@@ -1,7 +1,6 @@
-
 (function() {
 
-  console.log("js file loaded")
+  console.log("JS loaded");
 
   // Retrieve your client ID from the Google Developers Console at
   // https://console.developers.google.com/.
