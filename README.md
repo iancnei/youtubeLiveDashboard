@@ -41,3 +41,6 @@ Create a real-time, live analytics dashboard using a Youtube Live stream channel
 	* Javascript static page?
 * We might need authorization in order to see a channel's specific data.
 	* Alternatively we could be the channel's owner therefore bypassing the need for authorization.
+* The tutorial also uses Google Visualization, so should be able to use that to show the data on the dashboard in a meaningful way.
+* Testing the API to make sure it is correctly returning data is turning out to be quite tough since I don't have a YouTube presence with the developer account.
+	* Need to find some way to authorize developer account on other barely started YouTube account.
