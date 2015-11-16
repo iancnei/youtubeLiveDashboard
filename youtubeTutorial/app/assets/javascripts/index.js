@@ -4,7 +4,7 @@
 
   // Retrieve your client ID from the Google Developers Console at
   // https://console.developers.google.com/.
-  var OAUTH2_CLIENT_ID = '169673292745-4cq5rdpk206pfkbe8tgfbmgjdnehh0uu.apps.googleusercontent.com';
+  var OAUTH2_CLIENT_ID = 'MY_CLIENT_ID';
   var OAUTH2_SCOPES = [
     'https://www.googleapis.com/auth/yt-analytics.readonly',
     'https://www.googleapis.com/auth/youtube.readonly'
