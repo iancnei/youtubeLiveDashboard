@@ -10,13 +10,17 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-  <div class="sanity-check"><h1>If text appears and is red, CSS and HTML are working.</h1></div>
+  <!-- <div class="sanity-check"><h1>If text appears and is red, CSS and HTML are working.</h1></div> -->
   <div id="login-container" class="pre-auth">This application requires access to your YouTube account.
     Please <a href="#" id="login-link">authorize</a> to continue.
   </div>
   <div class="post-auth">
+    <h1>Video & Live Stream Metrics</h1>
+    <div id="broadcast-info"></div>
     <div id="message"></div>
     <div id="chart"></div>
+    <div>Choose a Live Broadcast:</div>
+    <ul id="live-broadcast-list"></ul>
     <div>Choose a Video:</div>
     <ul id="video-list"></ul>
   </div>
