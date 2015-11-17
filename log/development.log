@@ -1,0 +1,594 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:15:46 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (1155.3ms)
+Completed 200 OK in 1242ms (Views: 1226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-73efe79d723b68471c352ccf2cbceb187e2f0ff792fe3700603266d4290967e6.css?body=1" for 127.0.0.1 at 2015-11-15 20:15:47 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-15 20:15:47 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:16:42 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (45.8ms)
+Completed 200 OK in 72ms (Views: 70.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-15 20:16:42 -0800
+
+
+Started GET "/assets/index.self-ef19cfd203ebfe0837fbb232f760c57c71510c79da8dd4b04b3257acce38a284.js?body=1" for 127.0.0.1 at 2015-11-15 20:16:42 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-15 20:16:42 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-15 20:16:42 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:16:56 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (51.6ms)
+Completed 200 OK in 88ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:17:10 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (140.7ms)
+Completed 200 OK in 171ms (Views: 163.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-73efe79d723b68471c352ccf2cbceb187e2f0ff792fe3700603266d4290967e6.css?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/index.self-ef19cfd203ebfe0837fbb232f760c57c71510c79da8dd4b04b3257acce38a284.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/index.self-73efe79d723b68471c352ccf2cbceb187e2f0ff792fe3700603266d4290967e6.css?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:17:11 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (39.7ms)
+Completed 200 OK in 86ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:18:08 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (67.6ms)
+Completed 200 OK in 112ms (Views: 109.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:18:19 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (142.9ms)
+Completed 200 OK in 174ms (Views: 167.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:22:08 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (194.0ms)
+Completed 200 OK in 228ms (Views: 220.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-a3e2eb3804d536d95122c3d9468849c2daa0731b70c928a3157c0df7932cd8e1.js?body=1" for 127.0.0.1 at 2015-11-15 20:22:09 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:23:37 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (104.0ms)
+Completed 200 OK in 145ms (Views: 144.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-b6d61ddb6d50c26da67e91f441181acf3bf763b46e0096eaea947f1e145cd7c9.js?body=1" for 127.0.0.1 at 2015-11-15 20:23:37 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:25:01 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (105.6ms)
+Completed 200 OK in 133ms (Views: 132.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-69c6a1d63e065f37ecc77fd5b10999f43b14c86d934deed9f8dd86b323327fdb.js?body=1" for 127.0.0.1 at 2015-11-15 20:25:02 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:26:04 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (46.7ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:26:15 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (22.2ms)
+Completed 200 OK in 46ms (Views: 45.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:29:36 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (123.1ms)
+Completed 200 OK in 150ms (Views: 149.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-2755571f99f017bdb8a7d4205f9296e1c0aa23d578a6fe01e48312901af41d1c.js?body=1" for 127.0.0.1 at 2015-11-15 20:29:37 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:30:04 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (42.9ms)
+Completed 200 OK in 84ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:38:44 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (29.6ms)
+Completed 200 OK in 55ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-15 20:39:43 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (87.4ms)
+Completed 200 OK in 111ms (Views: 110.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-73efe79d723b68471c352ccf2cbceb187e2f0ff792fe3700603266d4290967e6.css?body=1" for 127.0.0.1 at 2015-11-15 20:39:43 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-15 20:39:43 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-15 20:39:44 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-15 20:39:44 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-15 20:39:44 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-15 20:39:44 -0800
+
+
+Started GET "/assets/index.self-6c2fec185a14c446594085679e55db24076a756ed93ef1dc6fb9426d0a5c4a6e.js?body=1" for 127.0.0.1 at 2015-11-15 20:39:44 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 00:36:51 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (161.4ms)
+Completed 200 OK in 198ms (Views: 187.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 00:38:25 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (74.7ms)
+Completed 200 OK in 103ms (Views: 102.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 00:38:25 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 00:40:27 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (65.6ms)
+Completed 200 OK in 110ms (Views: 108.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 10:57:51 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (319.0ms)
+Completed 200 OK in 375ms (Views: 367.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 10:57:52 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (21.4ms)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 10:57:52 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 11:50:26 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (168.5ms)
+Completed 200 OK in 204ms (Views: 194.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 12:41:24 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (24.5ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (46.2ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/index.self-6c2fec185a14c446594085679e55db24076a756ed93ef1dc6fb9426d0a5c4a6e.js?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-16 12:56:36 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 13:10:05 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (112.6ms)
+Completed 200 OK in 142ms (Views: 141.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-ea7bc4f1d514d3d76f6d519dbe57cdf7120e58793da04f08b538cbe1dc41ff47.js?body=1" for 127.0.0.1 at 2015-11-16 13:10:05 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 13:10:27 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (80.8ms)
+Completed 200 OK in 103ms (Views: 102.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-28fdbfb8784633e2cf01818acaccc8f23f24b118707971c2a5e6941fafc26254.js?body=1" for 127.0.0.1 at 2015-11-16 13:10:27 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 14:52:01 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (571.2ms)
+Completed 200 OK in 632ms (Views: 623.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 14:52:02 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 44ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:03:00 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (143.4ms)
+Completed 200 OK in 169ms (Views: 167.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-d9724b86ed031d5b707a3630c81fb132bcf01694afec65c8ed51a3d6f86ab0a7.js?body=1" for 127.0.0.1 at 2015-11-16 15:03:00 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:10:53 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (139.2ms)
+Completed 200 OK in 178ms (Views: 177.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-611aab80950cbffb4208bc20b4d07d39a9d4112fb9ca0d5160155e7688a8d1ae.js?body=1" for 127.0.0.1 at 2015-11-16 15:10:53 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:15:52 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (119.8ms)
+Completed 200 OK in 142ms (Views: 141.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-683a415bc947958824235f6422450278f14adc75807c7bc1ef274c8f3bcfeb62.js?body=1" for 127.0.0.1 at 2015-11-16 15:15:52 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:19:21 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (76.8ms)
+Completed 200 OK in 97ms (Views: 97.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-ac44cd4af0b17b17754b4ebcad01376b6a72f285dbe39bafb4c51f5a4ba190f8.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:22 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:19:52 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (119.7ms)
+Completed 200 OK in 154ms (Views: 143.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-8e02a45afa87524f5b1cdf5e5aa35af16e73cef562e993b670b269967d61613e.js?body=1" for 127.0.0.1 at 2015-11-16 15:19:52 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:23:59 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (41.9ms)
+Completed 200 OK in 67ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-8e02a45afa87524f5b1cdf5e5aa35af16e73cef562e993b670b269967d61613e.js?body=1" for 127.0.0.1 at 2015-11-16 15:24:00 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:25:12 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (44.5ms)
+Completed 200 OK in 89ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:25:22 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 48ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:29:33 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (120.5ms)
+Completed 200 OK in 145ms (Views: 144.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-25525ee2233267e34d0005879eef6f5f6387471736d5de5b47f6ad3b2b95eb05.js?body=1" for 127.0.0.1 at 2015-11-16 15:29:33 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:31:41 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (102.9ms)
+Completed 200 OK in 129ms (Views: 127.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-be5e841e5dbdce81b498d654a88b99e4f543f075b06f0cee55174155fa7d9fec.js?body=1" for 127.0.0.1 at 2015-11-16 15:31:41 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:32:06 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (47.2ms)
+Completed 200 OK in 79ms (Views: 78.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-be5e841e5dbdce81b498d654a88b99e4f543f075b06f0cee55174155fa7d9fec.js?body=1" for 127.0.0.1 at 2015-11-16 15:32:06 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:35:31 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (44.5ms)
+Completed 200 OK in 75ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (38.4ms)
+Completed 200 OK in 74ms (Views: 73.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/index.self-be5e841e5dbdce81b498d654a88b99e4f543f075b06f0cee55174155fa7d9fec.js?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-16 15:39:39 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (83.1ms)
+Completed 200 OK in 105ms (Views: 105.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-c49faab828eab2d10631431e3e81b22719fc8efc06e91a7a823a2ac2e03d32ff.css?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/index.self-d2d24225bf8a8ed24f79720f1278ccaa98e7f43df89e3ae04223a767026d30dc.js?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-16 15:57:29 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 18:09:35 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (114.3ms)
+Completed 200 OK in 137ms (Views: 136.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-1c4351cfe3e768d798fe94288d5b6ca1ce75097e0817d13ce95f01e109846fa4.js?body=1" for 127.0.0.1 at 2015-11-16 18:09:35 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 21:17:03 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (34.1ms)
+Completed 200 OK in 74ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-1c4351cfe3e768d798fe94288d5b6ca1ce75097e0817d13ce95f01e109846fa4.js?body=1" for 127.0.0.1 at 2015-11-16 21:17:03 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 22:09:02 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (82.1ms)
+Completed 200 OK in 103ms (Views: 102.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-a465575efd5446467c1f52f6b3681590a0675eef7c81fd6934eab8c700988fe7.js?body=1" for 127.0.0.1 at 2015-11-16 22:09:02 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 22:11:58 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (100.2ms)
+Completed 200 OK in 127ms (Views: 126.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-aa1950fe69ebdf63d72e200479eca1b1f84039b56dc1c65b67f1cf6bbf78df05.js?body=1" for 127.0.0.1 at 2015-11-16 22:11:58 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 22:12:24 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (79.3ms)
+Completed 200 OK in 100ms (Views: 99.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-b32677ac0cc7303f8f603bd13ff179cc15aca8474705008cd27bb7ef565b7d70.js?body=1" for 127.0.0.1 at 2015-11-16 22:12:24 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 22:59:00 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (108.6ms)
+Completed 200 OK in 130ms (Views: 129.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-8e884bca94c6dc6b3ca5054d4af7187105950ec7a1285383b41158ce4e27deb9.js?body=1" for 127.0.0.1 at 2015-11-16 22:59:00 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 22:59:22 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (87.7ms)
+Completed 200 OK in 110ms (Views: 109.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-255e34882695ce6c6c751dbc4c86dfe3e18d7f725cd64a6bd3805327823dd08d.js?body=1" for 127.0.0.1 at 2015-11-16 22:59:22 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:01:48 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (105.8ms)
+Completed 200 OK in 128ms (Views: 127.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-9e2b1aa162535b0ad53f109e175f0194a342b7e2be881a1c26df1ccc59827ac4.js?body=1" for 127.0.0.1 at 2015-11-16 23:01:48 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:27:30 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (88.2ms)
+Completed 200 OK in 109ms (Views: 108.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-f1a24a17367fce1d5b6787f864d5c78327974424ef429e45ec2da3a23a3f46fc.js?body=1" for 127.0.0.1 at 2015-11-16 23:27:30 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:37:44 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (82.4ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-da72bf6c683331470b1c4339d2235bfee3bd323051ca29dede43df9611841b9e.js?body=1" for 127.0.0.1 at 2015-11-16 23:37:44 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:38:25 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (91.3ms)
+Completed 200 OK in 116ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-ae5cca804da396298fbe837c422d4f44973e2205238f7a3e4ba3ce7bfc5e4240.js?body=1" for 127.0.0.1 at 2015-11-16 23:38:25 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:39:07 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (24.9ms)
+Completed 200 OK in 55ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:48:08 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (103.7ms)
+Completed 200 OK in 134ms (Views: 133.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-30b9d672f6edc8f8ef83c87630b46813d9710eb9db1b1664f66fca68a1047156.js?body=1" for 127.0.0.1 at 2015-11-16 23:48:08 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:48:57 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (95.4ms)
+Completed 200 OK in 121ms (Views: 120.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-600dfbc764fff3760426c88ae6fe3dd42b7a4c212984886a6bb3323ae2706962.js?body=1" for 127.0.0.1 at 2015-11-16 23:48:57 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:50:11 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (88.9ms)
+Completed 200 OK in 113ms (Views: 112.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/index.self-9e0761a214577886ba6b1cbef4632553bc6516208fd8aafd2435f5dcbc4c71f5.js?body=1" for 127.0.0.1 at 2015-11-16 23:50:12 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-16 23:50:37 -0800
+Processing by ApplicationController#tutorial as HTML
+  Rendered layouts/application.html.erb within layouts/application (23.1ms)
+Completed 200 OK in 53ms (Views: 52.1ms | ActiveRecord: 0.0ms)
