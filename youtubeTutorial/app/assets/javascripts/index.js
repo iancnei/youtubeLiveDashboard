@@ -4,7 +4,7 @@
 
   // Retrieve your client ID from the Google Developers Console at
   // https://console.developers.google.com/.
-  var OAUTH2_CLIENT_ID = 'MY_CLIENT_ID';
+  var OAUTH2_CLIENT_ID = '169673292745-ip5t5qpb91nflbpgkavpstb2s47rbte8.apps.googleusercontent.com';
   var OAUTH2_SCOPES = [
     'https://www.googleapis.com/auth/yt-analytics.readonly',
     'https://www.googleapis.com/auth/youtube.readonly'
@@ -22,7 +22,6 @@
   // Upon loading, the Google APIs JS client automatically invokes this callback.
   // See https://developers.google.com/api-client-library/javascript/features/authentication 
   window.onJSClientLoad = function() {
-    console.log("onJSClientLoad happening")
     gapi.auth.init(function() {
       window.setTimeout(checkAuth, 1);
     });
@@ -34,17 +33,15 @@
   // succeeds with no user intervention. Otherwise, it fails and the
   // user interface that prompts for authorization needs to display.
   function checkAuth() {
-    console.log("checkAuth called");
     gapi.auth.authorize({
       client_id: OAUTH2_CLIENT_ID,
       scope: OAUTH2_SCOPES,
-      immediate: true
+      immediate: false
     }, handleAuthResult);
   }
 
   // Handle the result of a gapi.auth.authorize() call.
   function handleAuthResult(authResult) {
-    console.log("handleAuthResult called")
     if (authResult) {
       // Authorization was successful. Hide authorization prompts and show
       // content that should be visible after authorization succeeds.
@@ -119,7 +116,8 @@
     // See https://developers.google.com/youtube/v3/docs/playlistitems/list
     var request = gapi.client.youtube.playlistItems.list({
       playlistId: listId,
-      part: 'snippet'
+      part: 'snippet',
+      maxResults: 30
     });
 
     request.execute(function(response) {
