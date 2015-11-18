@@ -339,7 +339,7 @@
   }
 
   // Call the Google Chart Tools API to generate a chart of Analytics data.
-  function displayChart(videoId, response) {
+  function displayChart(videoId, response, chartType) {
     if ('rows' in response) {
       hideMessage();
 
@@ -348,19 +348,25 @@
       // We need these column titles as a simple array, so we call jQuery.map()
       // to get each element's "name" property and create a new array that only
       // contains those values.
-      var columns = $.map(response.columnHeaders, function(item) {
-        return item.name;
-      });
+      // var columns = $.map(response.columnHeaders, function(item) {
+      //   return item.name;
+      // });
       // The google.visualization.arrayToDataTable() function wants an array
       // of arrays. The first element is an array of column titles, calculated
       // above as "columns". The remaining elements are arrays that each
       // represent a row of data. Fortunately, response.rows is already in
       // this format, so it can just be concatenated.
       // See https://developers.google.com/chart/interactive/docs/datatables_dataviews#arraytodatatable
-      var chartDataArray = [columns].concat(response.rows);
+      // var chartDataArray = [columns].concat(response.rows);
+      var chartDataArray = [["day", chartType]]
+      // need to change the row depending on chartType
+      
+      response.rows.forEach(function(item) {
+         chartDataArray = chartDataArray.concat([[item[0], item[]]]);
+      });
       var chartDataTable = google.visualization.arrayToDataTable(chartDataArray);
 
-      var chart = new google.visualization.LineChart(document.getElementById('chart'));
+      var chart = new google.visualization.LineChart(document.getElementById(chartType + '-chart'));
       chart.draw(chartDataTable, {
         // Additional options can be set if desired as described at:
         // https://developers.google.com/chart/interactive/docs/reference#visdraw
